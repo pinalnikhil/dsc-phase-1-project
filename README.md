@@ -4,21 +4,22 @@
 
 ![awesome](https://www.bing.com/images/search?view=detailV2&ccid=fAuJ14Fn&id=C14F43162CDB621A4090F5B7C300A20ACCA20376&thid=OIP.fAuJ14FnObXnFs_WFpPINgHaEK&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.7c0b89d7816739b5e716cfd61693c836%3frik%3ddgOizAqiAMO39Q%26riu%3dhttp%253a%252f%252fgetwallpapers.com%252fwallpaper%252ffull%252f9%252f7%252fb%252f374690.jpg%26ehk%3dS6TxiDGmi5SP9JHPNKKXtH6Cg0TZg9v39%252b8EM4O7y60%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=1080&expw=1920&q=movie+theatre+images&simid=608011698406898674&FORM=IRPRST&ck=B476D1CE305CE587F36A636DFEA9F75E&selectedIndex=18)
 
-Now you will put your new skills to use with a large end-of-Phase project! This project should take 20 to 30 hours to complete.
+Now, let start with new ideas
 
-## Project Overview
+## Project Aganda
 
-For this project, you will use exploratory data analysis to generate insights for a business stakeholder.
+In this project will going to see what kind of movie people like to see, Romantic, comedy, suspicious or creatures.
+### Business solution 
 
-### Business Problem
-
-Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
+To create any movie genres is the one of the most important part. Genres are categories for films, in other world you can say- is a combination of two genres like Comedy-Romantic, Sci-fi, ect. For example if we want to create any movie, you have to have male and female, hero and villain, love and fighting(they probably have different ideas about life). Now if we want to start new studio we have to have some idea about movie content. EX, Romantic, comedy, suspicious or creatures. To see which one is populer let's see my analysis:
 
 ### The Data
+For starting I uses item based filtering for making recommendation for movie.
+![image](https://user-images.githubusercontent.com/119024066/208228283-50860228-2fe8-4e34-95ab-92b5cf26dee3.png)
 
-In the folder `zippedData` are movie datasets from:
 
-* [Box Office Mojo](https://www.boxofficemojo.com/)
+To using below data  data In the folder `zippedData` are movie datasets from:
+
 * [IMDB](https://www.imdb.com/)
 * [Rotten Tomatoes](https://www.rottentomatoes.com/)
 * [TheMovieDB](https://www.themoviedb.org/)
