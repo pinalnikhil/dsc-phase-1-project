@@ -2,7 +2,7 @@
 
 ##Movie-Recommendation-using-Pandas-numpy-ect.....
 
-![image](https://user-images.githubusercontent.com/119024066/208228366-723fd035-2b0d-4007-b0ea-ef9a26625590.png)
+![image](https://winlights.com/photography-lighting/lighting-36.jpg)
 
 
 Now, let start with new ideas
