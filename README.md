@@ -9,55 +9,36 @@ Now, let start with new ideas
 
 ## Project Overview
 In This project we will analyzes movie data that will help us to take three different decisions to helped Microsoft with its journey to creating a new movie studio. To create any movie genres is the one of the most important part, Genres are categories for films, in other world you can say- is a combination of two genres like Comedy-Romantic, Sci-fi, ect. This analysis of the movie industry allowed me to make an informed decision about what kind of content we use for more views and TRP. What Microsoft should strive for when comparing their budget to their global gross. The runtime for each of Microsoft's movies, and finally. Microsoft can make the most of our well-informed choices to increase the likelihood that a movie will be a success. 
+
 ### Business Problem
 
-Microsoft has decided to enter into the film industry and wants to start producing their own films and they want some advice. This analysis aims to help Microsoft make infromed decisions about how they should approach this new venture.
+Microsoft is one of the big company who used to creating original video content and they want to get in on the fun. Now the situation is that they want to lunch a new movie studio, but they don’t know about content that creater use to creating movies. This analysis aims to help Microsoft make infromed decisions about how they should approach this new venture.
 
-### The Data
-For starting I uses item based filtering for making recommendation for movie.
-![image](https://user-images.githubusercontent.com/119024066/208228283-50860228-2fe8-4e34-95ab-92b5cf26dee3.png)
-To see image what you can understand:- 
+### Some of the Questions for help to slove this business problem: -
+
+What kind of genre we using for movie
+
+What their desired domestic gross should be when they develop their production budget
+
+What a movie's ideal runtime should be
+
+## Gatting data from
+
+The data being used for this project comes from the imdb.title.basics, imdb.title.rating, bom.movie_gross, which in zippeddata. This data was provided to us through the movies database like Movie_title, studio_name, domeomestic_gross,	foreign_gross, year, genres, averagerating, Original_title,	runtime_minutes and so on. In order to convey the strategy we think Microsoft should take in order to have the best chance of success in their new conflict between giants like Disney and Netflix, we used this data to develop innovative visuals that are both effective and unique.
+
+### The methode we use
+
+We used the movie data that was provided to us and a variety of information relevent to our proposal. After cleaning up the data, we used seaborn and matplotlib to produce visualisations, and come up with some solution that are help Microsoft to take the decisions and simple to understand.
+
+## Let's understand the visualisations  
+
+The graph belows shows how the genres for Musical, Horror, Mystery, Fantasy, Family, Animation, Documentary, Biography, Thriller, History, and Romance are all above the average line for Return on investment for each genre.
 
 
 
-To using below data  data In the folder `zippedData` are movie datasets from:
 
-* [IMDB](https://www.imdb.com/)
-* [Rotten Tomatoes](https://www.rottentomatoes.com/)
-* [TheMovieDB](https://www.themoviedb.org/)
-* [The Numbers](https://www.the-numbers.com/)
 
-It is up to you to decide what data from this to use and how to use it. If you want to make this more challenging, you can scrape websites or make API calls to get additional data. If you are feeling overwhelmed or behind (e.g. struggled with the Phase 1 Code Challenge), we recommend you use only the following data files:
 
-* imdb.title.basics
-* imdb.title.ratings
-* bom.movie_gross
-
-## Deliverables
-
-There are three deliverables for this project:
-
-* A **GitHub repository**
-* A **Jupyter Notebook**
-* A **non-technical presentation**
-
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic for instructions on creating and submitting your deliverables. Refer to the rubric associated with this assignment for specifications describing high-quality deliverables.
-
-### Key Points
-
-* **Your analysis should yield three concrete business recommendations.** The ultimate purpose of exploratory analysis is not just to learn about the data, but to help an organization perform better. Explicitly relate your findings to business needs by recommending actions that you think the business (Microsoft) should take.
-
-* **Communicating about your work well is extremely important.** Your ability to provide value to an organization - or to land a job there - is directly reliant on your ability to communicate with them about what you have done and why it is valuable. Create a storyline your audience (the head of Microsoft's new movie studio) can follow by walking them through the steps of your process, highlighting the most important points and skipping over the rest.
-
-* **Use plenty of visualizations.** Visualizations are invaluable for exploring your data and making your findings accessible to a non-technical audience. Spotlight visuals in your presentation, but only ones that relate directly to your recommendations. Simple visuals are usually best (e.g. bar charts and line graphs), and don't forget to format them well (e.g. labels, titles).
-
-## Getting Started
-
-Please start by reviewing this assignment, the rubric at the bottom of it, and the "Project Submission & Review" page. If you have any questions, please ask your instructor ASAP.
-
-Next, we recommend you check out [the Phase 1 Project Templates and Examples repo](https://github.com/learn-co-curriculum/dsc-project-template) and use the MVP template for your project.
-
-Alternatively, you can fork [the Phase 1 Project Repository](https://github.com/learn-co-curriculum/dsc-phase-1-project), clone it locally, and work in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
 
 ## Project Submission and Review
 
