@@ -35,7 +35,6 @@ We used the movie data that was provided to us and a variety of information rele
 The graph belows shows how the genres for Musical, Horror, Mystery, Fantasy, Family, Animation, Documentary, Biography, Thriller, History, and Romance are all above the average line for Return on investment for each genre.
 
 
-![Uploading download.png…]()
 
 
 Review the "Project Submission & Review" page in the "Milestones Instructions" topic to learn how to submit your project and how it will be reviewed. Your project must pass review for you to progress to the next Phase.
