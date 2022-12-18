@@ -7,12 +7,11 @@
 
 Now, let start with new ideas
 
-## Project Aganda
+## Project Overview
+In This project we will analyzes movie data that will help us to take three different decisions to helped Microsoft with its journey to creating a new movie studio. To create any movie genres is the one of the most important part, Genres are categories for films, in other world you can say- is a combination of two genres like Comedy-Romantic, Sci-fi, ect. This analysis of the movie industry allowed me to make an informed decision about what kind of content we use for more views and TRP. What Microsoft should strive for when comparing their budget to their global gross. The runtime for each of Microsoft's movies, and finally. Microsoft can make the most of our well-informed choices to increase the likelihood that a movie will be a success. 
+### Business Problem
 
-In this project will going to see what kind of movie people like to see, Romantic, comedy, suspicious or creatures.
-### Business solution 
-
-To create any movie genres is the one of the most important part. Genres are categories for films, in other world you can say- is a combination of two genres like Comedy-Romantic, Sci-fi, ect. For example if we want to create any movie, you have to have male and female, hero and villain, love and fighting(they probably have different ideas about life). Now if we want to start new studio we have to have some idea about movie content. EX, Romantic, comedy, suspicious or creatures. To see which one is populer let's see my analysis:
+Microsoft has decided to enter into the film industry and wants to start producing their own films and they want some advice. This analysis aims to help Microsoft make infromed decisions about how they should approach this new venture.
 
 ### The Data
 For starting I uses item based filtering for making recommendation for movie.
